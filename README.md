@@ -1,2 +1,1 @@
-# FrootCatcher
-Foot Catcher... oops i mean froot catcher
+# Foot Catcher... oops i mean froot catcher
